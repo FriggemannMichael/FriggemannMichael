@@ -26,8 +26,7 @@ Ich bin aktuell **Vollzeit-Student bei der Developer Akademie** (seit Februar 20
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React (Learning)" style="opacity: 0.6;" />
+  
 </div>
 
 ### 💻 Aktuelle Skills
@@ -127,8 +126,7 @@ Wenn ich nicht am Code arbeite, findest du mich draußen in der Natur!
 | **Feb 2025** | 🚀 Start bei Developer Akademie | ✅ |
 | **März 2025** | 💻 Erste HTML/CSS Projekte | ✅ |
 | **April 2025** | ⚡ JavaScript Grundlagen | 🔄 In Arbeit |
-| **Mai 2025** | ⚛️ React Einführung | 📅 Geplant |
-| **Juni 2025** | 🛠️ smart Dispo MVP | 📅 Geplant |
+| **September 2025** | 🛠️ smart Dispo MVP | 📅 Geplant |
 
 </div>
 
