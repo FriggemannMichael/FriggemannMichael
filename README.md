@@ -34,7 +34,7 @@ Ich bin aktuell **Vollzeit-Student bei der Developer Akademie** (seit Februar 20
 const michael = {
   languages: ["HTML", "CSS", "JavaScript"],
   focus: "Frontend Development",
-  learning: ["React", "UI/UX Design"],
+  learning: ["UI/UX Design"],
   passion: "Saubere, intuitive Benutzeroberflächen",
   background: ["Gärtnermeister", "Personaldisponent"],
   superpower: "Nutzer verstehen & Probleme strukturiert lösen"
