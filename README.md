@@ -126,7 +126,7 @@ Wenn ich nicht am Code arbeite, findest du mich draußen in der Natur!
 | **Feb 2025** | 🚀 Start bei Developer Akademie | ✅ |
 | **März 2025** | 💻 Erste HTML/CSS Projekte | ✅ |
 | **April 2025** | ⚡ JavaScript Grundlagen | 🔄 In Arbeit |
-| **September 2025** | 🛠️ smart Dispo MVP | 📅 Geplant |
+| **Feb 2026** | 🛠️ smart Dispo MVP | 📅 Geplant |
 
 </div>
 
