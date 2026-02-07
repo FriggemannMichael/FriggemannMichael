@@ -28,9 +28,6 @@ Ich bin **Frontend Engineer** mit einer Leidenschaft für sauberen Code und intu
   <img src="https://skillicons.dev/icons?i=ts,js,angular,rxjs,html,css,sass,git,github,firebase,figma,postman" />
 </p>
 
-**Core:** TypeScript (ES6+), Angular, RxJS  
-**Tools:** Git, Firebase, OOP, REST APIs, Tailwind/Sass
-
 ---
 
 ### 📂 Ausgewählte Projekte
@@ -46,8 +43,13 @@ Ich bin **Frontend Engineer** mit einer Leidenschaft für sauberen Code und intu
 ### 📊 GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FriggemannMichael&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=ffffff" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FriggemannMichael&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=ffffff" height="170" />
+  <img src="https://streak-stats.demolab.com?user=FriggemannMichael&theme=dark&hide_border=true&background=00000000" height="150" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FriggemannMichael&theme=github_dark" height="150" alt="GitHub Profile Summary" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FriggemannMichael&theme=github_dark" height="150" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FriggemannMichael&theme=github_dark" height="150" alt="Most commit language" />
 </div>
 
 <br />
