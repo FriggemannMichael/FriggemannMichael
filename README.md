@@ -44,15 +44,30 @@ Hier sind einige meiner aktuellen Projekte, die meinen Fokus auf **Clean Code** 
 
 | Projekt | Stack | Beschreibung |
 | :--- | :--- | :--- |
-| [**📂 Join MPA**](https://github.com/FriggemannMichael/join_mpa) | **Angular, TypeScript, Firebase** | Ein umfangreiches Kanban-Projektmanagement-Tool. Features: Drag & Drop, Kontaktverwaltung, User-Auth. |
-| [**🐔 El Pollo Loco**](https://github.com/FriggemannMichael/ElPolloLoco) | **JavaScript (OOP), Canvas** | Ein objektorientiertes 2D-Jump-and-Run Spiel. Zeigt Klassenstruktur, Kollisionslogik und Asset-Management. |
-| [**⚡ Pokedex**](https://github.com/FriggemannMichael/pokedex) | **JavaScript, REST API** | Dynamische Web-App, die Daten live von der PokéAPI lädt und rendert. Fokus auf asynchroner Datenverarbeitung. |
+| [**Join MPA**](https://github.com/FriggemannMichael/join_mpa) | **Angular, TypeScript, Firebase** | Ein umfangreiches Kanban-Projektmanagement-Tool. Features: Drag & Drop, Kontaktverwaltung, User-Auth. |
+| [** El Pollo Loco**](https://github.com/FriggemannMichael/ElPolloLoco) | **JavaScript (OOP), Canvas** | Ein objektorientiertes 2D-Jump-and-Run Spiel. Zeigt Klassenstruktur, Kollisionslogik und Asset-Management. |
+| [** Pokedex**](https://github.com/FriggemannMichael/pokedex) | **JavaScript, REST API** | Dynamische Web-App, die Daten live von der PokéAPI lädt und rendert. Fokus auf asynchroner Datenverarbeitung. |
 
 ---
 
 ### /// GITHUB_STATS
 
----
+<div align="center">
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=FriggemannMichael&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=00ff88&text_color=999999&rank_icon=github&include_all_commits=true&cache_seconds=86400&v=1"
+    height="150"
+    alt="stats graph"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FriggemannMichael&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=999999&langs_count=8&cache_seconds=86400&v=1"
+    height="150"
+    alt="languages graph"
+  />
+
+</div>
+
 
 ### /// GITHUB_PERFORMANCE
 
