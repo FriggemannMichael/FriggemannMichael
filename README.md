@@ -54,46 +54,40 @@ Hier sind einige meiner aktuellen Projekte, die meinen Fokus auf **Clean Code** 
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=FriggemannMichael&theme=dark&hide_border=true&background=00000000" height="150" />
+  <img
+    src="https://streak-stats.demolab.com?user=FriggemannMichael&theme=dark&hide_border=true&background=00000000"
+    height="150"
+    alt="GitHub Streak"
+  />
 
-
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FriggemannMichael&theme=github_dark" />
-
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FriggemannMichael&theme=github_dark"
+    height="150"
+    alt="GitHub Profile Summary"
+  />
 
 </div>
 
+---
 
 ### /// GITHUB_PERFORMANCE
 
 <div align="center">
-  
-<div align="center">
-
-  <img src="https://streak-stats.demolab.com?user=FriggemannMichael&theme=dark&hide_border=true" />
-
-
-  <br/>
 
   <img
-    src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=FriggemannMichael&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=999999&langs_count=8&cache_seconds=86400"
-    width="400"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FriggemannMichael&theme=github_dark"
+    height="170"
+    alt="Repos per language"
   />
 
-  <br/>
-
   <img
-    src="https://streak-stats.demolab.com?user=FriggemannMichael&theme=dark&hide_border=true&background=00000000&ring=00ff88&fire=00ff88&currStreakLabel=00ff88"
-    width="400"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FriggemannMichael&theme=github_dark"
+    height="170"
+    alt="Most commit language"
   />
 
 </div>
 
-
----
-
----
-
----
 
 ### /// CONNECT
 
