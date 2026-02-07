@@ -52,10 +52,25 @@ Hier sind einige meiner aktuellen Projekte, die meinen Fokus auf **Clean Code** 
 
 ### /// GITHUB_STATS
 
+---
+
+### /// GITHUB_STATS
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FriggemannMichael&show_icons=true&theme=dark&hide_border=true&bg_color=050505&title_color=ffffff&icon_color=00ff88&text_color=999999" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FriggemannMichael&layout=compact&theme=dark&hide_border=true&bg_color=050505&title_color=ffffff&text_color=999999" height="150" alt="languages graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=FriggemannMichael&show_icons=true&theme=dark&hide_border=true&bg_color=050505&title_color=ffffff&icon_color=00ff88&text_color=999999&count_private=true" width="400" alt="Michael's GitHub Stats" />
+  
+  <br />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FriggemannMichael&layout=compact&theme=dark&hide_border=true&bg_color=050505&title_color=ffffff&text_color=999999&langs_count=6" width="400" alt="Top Languages" />
+
+  <br />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FriggemannMichael&theme=dark&hide_border=true&background=050505&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" width="400" alt="GitHub Streak" />
+
 </div>
+
+---
 
 ---
 
