@@ -69,10 +69,8 @@ Hier sind einige meiner aktuellen Projekte, die meinen Fokus auf **Clean Code** 
   
 <div align="center">
 
-  <img
-    src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=FriggemannMichael&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=00ff88&text_color=999999&include_all_commits=true&rank_icon=github&cache_seconds=86400"
-    width="400"
-  />
+  <img src="https://streak-stats.demolab.com?user=FriggemannMichael&theme=dark&hide_border=true" />
+
 
   <br/>
 
